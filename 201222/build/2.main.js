@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{145:function(n,t,o){"use strict";o.r(t),o.d(t,"fetchTodos",(function(){return e}));var e=function(){return fetch("https://jsonplaceholder.typicode.com/posts").then((function(n){return n.json()})).then((function(n){return n}))}}}]);
